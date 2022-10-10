@@ -1,2 +1,2 @@
 # CSharp
-This repo showcases my CSharp skills as ic ode along
+This repo showcases my CSharp skills as I code along
